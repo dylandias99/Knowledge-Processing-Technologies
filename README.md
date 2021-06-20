@@ -1,6 +1,6 @@
 # Knowledge-Processing-Technologies
 
-This repository consists of the submitted lab work for Knowledge Processing Techniques @ RIT
+This repository consists of the submitted lab work for Knowledge Processing Techniques (ISTE-612)@ RIT
 
 ## Lab 1
 <img src="Images/Out_1.png" alt="Flowchart" width=600 height=300>
