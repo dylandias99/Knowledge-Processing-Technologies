@@ -17,4 +17,4 @@ This repository consists of the submitted lab work for Knowledge Processing Tech
 <img src="Images/Out_4.png" alt="Flowchart" width=500 height=200>
 
 ## Lab 5
-<img src="Images/Out_5.png" alt="Flowchart" width=400 height=300>
+<img src="Images/Out_5.png" alt="Flowchart" width=500 height=200>
